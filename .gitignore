@@ -22,10 +22,6 @@ composer.phar
 # Generated files
 .phpunit.result.cache
 
-# PHPUnit
-/app/phpunit.xml
-/phpunit.xml
-
 # Build data
 /build/
 
@@ -41,3 +37,4 @@ composer.phar
 .history
 
 # End of https://www.gitignore.io/api/phpunit,composer,phpcodesniffer,visualstudiocode
+composer.lock
